@@ -5,7 +5,6 @@
 // @author       gamer23car
 // @match        https://www.roblox.com/*
 // @match        https://devforum.roblox.com/*
-// @match        https://create.roblox.com/*
 // @icon         none
 // @grant        none
 // ==/UserScript==
