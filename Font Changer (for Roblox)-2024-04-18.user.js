@@ -5,6 +5,8 @@
 // @author       gamer23car
 // @match        https://www.roblox.com/*
 // @match        https://devforum.roblox.com/*
+// @match        https://create.roblox.com/*
+// @match        https://en.help.roblox.com/*
 // @icon         none
 // @grant        none
 // ==/UserScript==
